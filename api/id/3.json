@@ -1,0 +1,57 @@
+{
+    "id": 3,
+    "country": "New York", 
+
+    "image01": "https://images.pexels.com/photos/1525612/pexels-photo-1525612.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image02": "https://images.pexels.com/photos/2168974/pexels-photo-2168974.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image03": "https://images.pexels.com/photos/2168975/pexels-photo-2168975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+     
+    "food01": "https://www.club-sandwich.net/images/photoarticles/burger-us-pb.jpg",
+    "food02": "https://www.cnewyork.net/wp-content/uploads/2020/07/recette-buffalo-chicken-wings.jpg",
+    "food03": "https://img.mesrecettesfaciles.fr/2019-08/hot-dog-16537-1000x500.jpg",
+
+
+    "story01": "La Liberté éclairant le monde1,2 (en anglais : Liberty Enlightening the World)3, ou simplement Liberté, plus connue sous le nom de statue de la Liberté (Statue of Liberty), est l'un des monuments les plus célèbres des États-Unis. Cette statue monumentale est située à New York, sur la Liberty Island, au sud de Manhattan, à l'embouchure de l'Hudson et à proximité d’Ellis Island.",
+    "story02": "L’Empire State Building est un gratte-ciel de style Art déco situé dans l'arrondissement de Manhattan, à New York. Il est situé dans le quartier de Midtown au 350 de la 5ᵉ Avenue, entre les 33ᵉ et 34ᵉ rues. Inauguré le 1ᵉʳ mai 1931, il mesure 381 mètres et compte 102 étages.",
+    "story03": "Le parc fut créé en 1857 suite à la volonté de la population qui souhaitait un espace vert dans la ville. En effet, au début des années 1800, New York est déjà une ville fortement peuplée avec environ 200 000 habitants en 1830. L’Etat décide alors de construire le parc sur un terrain en friche. Suite à un concours pour les plans du futur projet, Frederick Law Olmsted et Calvert Vaux sont retenus." ,
+
+    "monument01": "https://images.pexels.com/photos/64271/queen-of-liberty-statue-of-liberty-new-york-liberty-statue-64271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "monument02": "https://images.pexels.com/photos/2190283/pexels-photo-2190283.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "monument03": "https://images.pexels.com/photos/946688/pexels-photo-946688.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ,
+    "date01": "Septembre 1875", 
+    "date02": "17 mars 1930",
+    "date03": "1858",
+      
+    "recipe01": [
+      "2 pounds freshly ground chuck, (at least 80% lean, a.k.a. 80/20)",
+      "1 tablespoon onion powder",
+      "1 teaspoon salt",
+      "1 teaspoon freshly ground black pepper",
+      "12 slices deli-counter American cheese",
+      "6 large burger buns, preferably homemade, toasted if desired"
+    ],
+    "recipe02": [
+      "1/4 cup all-purpose flour",
+      "1/4 teaspoon paprika",
+      "1/4 teaspoon cayenne pepper",
+      "1/4 teaspoon salt",
+      "10 chicken wings",
+      "oil for deep frying",
+      "1/4 cup butter",
+      "1/4 cup hot sauce",
+      "1 dash ground black pepper",
+      "1 dash garlic powder"
+    ],
+    "recipe03": [
+      "8 ounces uncooked elbow macaroni",
+      "2 cups shredded sharp Cheddar cheese",
+      "1/2 cup grated Parmesan cheese",
+      "3 cups milk",
+      "1/4 cup butter",
+      "2 1/2 tablespoons all-purpose flour",
+      "2 tablespoons butter",
+      "1/2 cup bread crumbs",
+      "1 pinch paprika"
+    ]
+  }

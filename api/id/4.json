@@ -1,0 +1,65 @@
+{
+    "id": 4,
+    "country": "Jamaique", 
+    "image01": "https://images.pexels.com/photos/6473805/pexels-photo-6473805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image02": "https://images.pexels.com/photos/5005126/pexels-photo-5005126.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image03": "https://images.pexels.com/photos/5180526/pexels-photo-5180526.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+       
+    "Food01": "https://1.bp.blogspot.com/-nSWEuux8iko/Xw4067EKgPI/AAAAAAABQE8/NWvVw7stwSYT4e39V0eSb0a2habrFPd9ACLcBGAsYHQ/s660/poulet-jerk-jamaicain-ou-jerk-chicken.jpg",
+    "Food02": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2016%2F02%2Fjamaican-rice-and-peas-xl-recipe2017.jpg",
+    "Food03": "https://www.seriouseats.com/thmb/zw3MLLp7KeCZeqgblOnsnJ2fug0=/1500x1125/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__09__20200829-saltfish-ackee-vicky-wasik-1-f066e2f6aa5e4ebb84637cfcec31eb5f.jpg"
+    ,
+    "story01": "Marley s'installe alors à Kingston, au 56 Hope Road. Dans cette ancienne bâtisse coloniale qu'il rachète en 1975, il y installe son label, Tuff Gong, et le studio où il enregistrera ses albums en solo, le Tuff Gong Studio. ... Six ans après sa mort, la maison devient le Musée Bob Marley en 1987.",
+    "story02": ,
+    "story03": ,
+    
+    "monument01": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/03/60/4e/bob-marley-museum.jpg?w=1200&h=-1&s=1",
+    "monument02": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/87/b5/14/acceso-a-nine-miles.jpg?w=1200&h=-1&s=1",
+    "monument03": "https://media-cdn.tripadvisor.com/media/photo-s/18/f8/8a/15/rastafari-indigenous.jpg"
+     ,
+    "date01": "1985",
+
+    "recipe01": [ 
+    "1 medium onion, coarsely chopped",
+    "3 medium scallions, chopped",
+    "2 Scotch bonnet chiles, chopped",
+    "2 garlic cloves, chopped",
+    "1 tablespoon five-spice powder",
+    "1 tablespoon allspice berries, coarsely ground",
+    "1 tablespoon coarsely ground pepper",
+    "1 teaspoon dried thyme, crumbled",
+    "1 teaspoon freshly grated nutmeg",
+    "1 teaspoon salt",
+    "1/2 cup soy sauce",
+    "1 tablespoon vegetable oil",
+    "Two 3 1/2- to 4-pound chickens, quartered"
+    ],
+    "recipe02": [
+      "3 cups water",
+      "1 small onion, finely chopped",
+      "2 scallions, finely chopped",
+      "3 garlic cloves, minced",
+      "5 allspice berries",
+      "5 thyme sprigs",
+      "1 Scotch bonnet pepper",
+      "1/2 teaspoon grated fresh ginger",
+      "Kosher salt",
+      "Black pepper",
+      "One 13.5-ounce can unsweetened coconut milk",
+      "2 cups long-grain white rice"
+    ],
+    "recipe03": [ 
+    "8 ounces (225g) salt cod",
+    "2 tablespoons (30ml) neutral oil, such as canola or vegetable",
+    "2 tablespoons (1 ounce; 30g) diced yellow onion, from 1/4 onion",
+    "2 heaping tablespoons (1 ounce; 30g) diced bell pepper, from 1/2 bell pepper",
+    "1/2 Scotch bonnet chile, stemmed, seeded, and minced",
+    "2 garlic cloves, minced",
+    "1 small tomato (about 2 ounces; 55g), cored and diced",
+    "1 scallion (10g), thinly sliced",
+    "2 tablespoons (3g) fresh thyme leaves and tender stems, chopped",
+    "One 18–20-ounce can ackee",
+    "Kosher salt and freshly ground black pepper",
+    "Sliced avocado, for serving"
+    ]
+  }
