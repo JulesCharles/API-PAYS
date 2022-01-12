@@ -1,65 +1,65 @@
 {
-    "id": 6,
-    "country": "Thailande", 
-    "image": "https://images.pexels.com/photos/1074442/pexels-photo-1074442.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "image02": "https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "image03": "https://images.pexels.com/photos/4024726/pexels-photo-4024726.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    ,
-    "food01": "https://images.pexels.com/photos/2454533/pexels-photo-2454533.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "Food02": "https://images.pexels.com/photos/9056984/pexels-photo-9056984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
-    "Food03": "https://images.pexels.com/photos/5424049/pexels-photo-5424049.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
+  "id": 6,
+  "country": "Thailande", 
+  "image": "https://images.pexels.com/photos/1074442/pexels-photo-1074442.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "image02": "https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "image03": "https://images.pexels.com/photos/4024726/pexels-photo-4024726.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  ,
+  "food01": "https://images.pexels.com/photos/2454533/pexels-photo-2454533.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "Food02": "https://images.pexels.com/photos/9056984/pexels-photo-9056984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
+  "Food03": "https://images.pexels.com/photos/5424049/pexels-photo-5424049.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
 
-    ,
-    "story01": ,
-    "story02": ,
-    "story03": ,
-    
-    "monument01": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fa/67/3c/temple-of-the-reclining.jpg?w=1200&h=-1&s=1",
-    "monument02": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b9/7f/89/photo0jpg.jpg?w=1200&h=-1&s=1",
-    "monument03": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f3/be/75/restored-ruin-of-the.jpg?w=1200&h=-1&s=1"
-     ,
-    "date01": "1832",
-    "date02": "1981",
-    "date03": "14 eme Siecle", 
-    
-    "recipe01": [
-      "400 g sticky rice",
-      "chicken",
-      "shallots",
-      "mint",
-      "coriander",
-      "lime juice",
-      "nuoc mam",
-      "sugar",
-      "chopped chilli",
-      "chopped herbs",
-      "salad leaves",
-      "aromatic herbs",
-      "laab"
-    ],
-    "recipe02": [
-      "2 tablespoons of vegetable oil or coconut cream",
-      "1/4 cup green curry paste",
-      "500 g boneless chicken thighs, cut into pieces",
-      "400 ml Coconut milk",
-      "1 cup of Thai eggplant (small round eggplant) cut in 4",
-      "1/2 cup whole Thai basil leaves",
-      "1/4 cup thinly sliced Thai long peppers",
-      "2 kaffir lime leaves, torn in 4",
-      "1 tablespoon of palm sugar",
-      "1 tablespoon of fish sauce"
-    ],
-    "recipe03": [
-      "2 chicken breasts",
-      "150 ml coconut milk",
-      "4 tbsp. peanut butter",
-      "2 tbsp. soy sauce",
-      "2 tbsp. brown sugar or honey",
-      "1 clove of garlic",
-      "1 piece of ginger of 1 cm",
-      "3 tbsp. tablespoons of sunflower oil",
-      "1 C. curry powder",
-      "1 C. tablespoons of maizena",
-      "Coriander"
-    ]
-  }
+  ,
+  "story01": "Wat Pho (Thai วัด โพธิ์, wát pʰoː), or Wat Phra Chettuphon (Temple of the Reclining Buddha), is one of the largest and oldest Buddhist temples in Bangkok.",
+  "story02": "The Sanctuary of Truth (Thai: ปราสาทสัจธรรม) is an unfinished museum in Pattaya, Thailand, which is a hybrid of temple and castle based on Ayutthaya period and Buddhist, Hindu beliefs. It was designed by the Thai businessman Lek Viriyaphan[1] in the Ayutthaya style.",
+  "story03": "Wat Chedi Luang (Thai: วัดเจดีย์หลวง, lit. temple of the big stupa or temple of the royal stupa) is a Buddhist temple in the historic centre of Chiang Mai, Thailand. The current temple grounds were originally made up of three temples — Wat Chedi Luang, Wat Ho Tham and Wat Sukmin.",
+  
+  "monument01": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fa/67/3c/temple-of-the-reclining.jpg?w=1200&h=-1&s=1",
+  "monument02": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b9/7f/89/photo0jpg.jpg?w=1200&h=-1&s=1",
+  "monument03": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f3/be/75/restored-ruin-of-the.jpg?w=1200&h=-1&s=1"
+   ,
+  "date01": "1832",
+  "date02": "1981",
+  "date03": "14 eme Siecle", 
+  
+  "recipe01": [
+    "400 g sticky rice",
+    "chicken",
+    "shallots",
+    "mint",
+    "coriander",
+    "lime juice",
+    "nuoc mam",
+    "sugar",
+    "chopped chilli",
+    "chopped herbs",
+    "salad leaves",
+    "aromatic herbs",
+    "laab"
+  ],
+  "recipe02": [
+    "2 tablespoons of vegetable oil or coconut cream",
+    "1/4 cup green curry paste",
+    "500 g boneless chicken thighs, cut into pieces",
+    "400 ml Coconut milk",
+    "1 cup of Thai eggplant (small round eggplant) cut in 4",
+    "1/2 cup whole Thai basil leaves",
+    "1/4 cup thinly sliced Thai long peppers",
+    "2 kaffir lime leaves, torn in 4",
+    "1 tablespoon of palm sugar",
+    "1 tablespoon of fish sauce"
+  ],
+  "recipe03": [
+    "2 chicken breasts",
+    "150 ml coconut milk",
+    "4 tbsp. peanut butter",
+    "2 tbsp. soy sauce",
+    "2 tbsp. brown sugar or honey",
+    "1 clove of garlic",
+    "1 piece of ginger of 1 cm",
+    "3 tbsp. tablespoons of sunflower oil",
+    "1 C. curry powder",
+    "1 C. tablespoons of maizena",
+    "Coriander"
+  ]
+}

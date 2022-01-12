@@ -1,71 +1,71 @@
 {
-    "id": 5,
-    "country": "Bresil", 
-    "image01": "https://images.pexels.com/photos/10254833/pexels-photo-10254833.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "image02": "https://images.pexels.com/photos/3021252/pexels-photo-3021252.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "image03": "https://images.pexels.com/photos/10470133/pexels-photo-10470133.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    , 
-    "food01": "https://images.pexels.com/photos/7182998/pexels-photo-7182998.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "Food02": "https://images.pexels.com/photos/5695874/pexels-photo-5695874.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "Food03": "https://images.pexels.com/photos/5419172/pexels-photo-5419172.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    ,
-    "story01": ,
-    "story02": ,
-    "story03": ,
-    
-    "monument01": "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "monument02": "https://images.pexels.com/photos/1203565/pexels-photo-1203565.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "monument03": "https://images.pexels.com/photos/6943410https://www.futuribles.com/media/base/main/ForetAmazonienne.jpg.560x300_q85_box-0%2C13%2C1000%2C548_crop_detail.jpg/pexels-photo-6943410.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    ,
-    "date": [
-      "1926-1931",
-      "",
-      ""
-    ],
-    "recipe01": [ 
-      "1 1/2 pounds boneless skinless chicken breasts (about 4 halves)",
-      "4 to 5 cups chicken broth",
-      "1 carrot, halved",
-      "2 medium onions",
-      "2 bay leaves",
-      "8 ounces cream cheese, softened",
-      "1 lime, juiced",
-      "2 cloves garlic",
-      "2 tablespoons butter",
-      "Kosher salt, to taste",
-      "Pepper, to taste",
-      "3 to 3 1/2 cups all-purpose flour",
-      "2 large eggs",
-      "2 to 3 cups fine breadcrumbs",
-      "Vegetable oil, for frying"
-    ],
-    "recipe02": [ 
-    "1 pound dry black beans (soaked overnight)",
-    "1 tablespoon olive oil",
-    "4 ounces slab bacon (rind removed), diced",
-    "1 pound pork ribs, cut into individual ribs",
-    "2 Mexican chorizo sausages, sliced",
-    "1 smoked sausage, such as linguica or kielbasa, sliced",
-    "1 large onion, chopped",
-    "4 cloves garlic, minced",
-    "3 tomatoes, diced",
-    "1 teaspoon salt",
-    "1 teaspoon ground black pepper",
-    "3 bay leaves",
-    "water",
-    "white rice (for serving)",
-    "farofa (for serving)"
-    ],
+  "id": 5,
+  "country": "Bresil", 
+  "image01": "https://images.pexels.com/photos/10254833/pexels-photo-10254833.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "image02": "https://images.pexels.com/photos/3021252/pexels-photo-3021252.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "image03": "https://images.pexels.com/photos/10470133/pexels-photo-10470133.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  , 
+  "food01": "https://images.pexels.com/photos/7182998/pexels-photo-7182998.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "Food02": "https://images.pexels.com/photos/5695874/pexels-photo-5695874.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "Food03": "https://images.pexels.com/photos/5419172/pexels-photo-5419172.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  ,
+  "story01": "The Corcovado is one of the many landforms in the city of Rio de Janeiro. It rises to 704 meters above sea level. It is famous for hosting the statue of Christ the Redeemer, one of the main symbols of the city and the country, at its summit, and for offering a view of the entire southern area of the city.",
+  "story02": "Located on the border between Argentina and Brazil, these famous falls have been a UNESCO World Heritage Site since 1984 as natural wonders.",
+  "story03": "A vast plain crossed by the Amazon River, this region of South America spans several countries (Colombia, Bolivia, Ecuador ...) and of course Brazil! In this one alone, the Amazon covers 60% of the territory! Spread over several states in the north of the country, this immense green region is the lungs of our dear planet",
+  
+  "monument01": "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "monument02": "https://images.pexels.com/photos/1203565/pexels-photo-1203565.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "monument03": "https://images.pexels.com/photos/6943410https://www.futuribles.com/media/base/main/ForetAmazonienne.jpg.560x300_q85_box-0%2C13%2C1000%2C548_crop_detail.jpg/pexels-photo-6943410.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  ,
+  "date": [
+    "1926-1931",
+    "",
+    ""
+  ],
+  "recipe01": [ 
+    "1 1/2 pounds boneless skinless chicken breasts (about 4 halves)",
+    "4 to 5 cups chicken broth",
+    "1 carrot, halved",
+    "2 medium onions",
+    "2 bay leaves",
+    "8 ounces cream cheese, softened",
+    "1 lime, juiced",
+    "2 cloves garlic",
+    "2 tablespoons butter",
+    "Kosher salt, to taste",
+    "Pepper, to taste",
+    "3 to 3 1/2 cups all-purpose flour",
+    "2 large eggs",
+    "2 to 3 cups fine breadcrumbs",
+    "Vegetable oil, for frying"
+  ],
+  "recipe02": [ 
+  "1 pound dry black beans (soaked overnight)",
+  "1 tablespoon olive oil",
+  "4 ounces slab bacon (rind removed), diced",
+  "1 pound pork ribs, cut into individual ribs",
+  "2 Mexican chorizo sausages, sliced",
+  "1 smoked sausage, such as linguica or kielbasa, sliced",
+  "1 large onion, chopped",
+  "4 cloves garlic, minced",
+  "3 tomatoes, diced",
+  "1 teaspoon salt",
+  "1 teaspoon ground black pepper",
+  "3 bay leaves",
+  "water",
+  "white rice (for serving)",
+  "farofa (for serving)"
+  ],
 
-    "recipe03": [
-      "150 g of muscovado sugar",
-      "100 g of softened butter",
-      "4 eggs",
-      "250 ml of milk",
-      "300 g of flour",
-      "1 sachet of baking powder",
-      "1/2 fresh pineapple",
-      "liquid caramel"
-    ]
-    
-  }
+  "recipe03": [
+    "150 g of muscovado sugar",
+    "100 g of softened butter",
+    "4 eggs",
+    "250 ml of milk",
+    "300 g of flour",
+    "1 sachet of baking powder",
+    "1/2 fresh pineapple",
+    "liquid caramel"
+  ]
+  
+}
