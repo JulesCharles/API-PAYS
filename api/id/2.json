@@ -1,66 +1,79 @@
 {
-    "id": 2,
-    "country": "Italia", 
-    "image01":"https://images.pexels.com/photos/5227440/pexels-photo-5227440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "image02": "https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-    "image03": "https://images.pexels.com/photos/5864071/pexels-photo-5864071.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-
-    "food01": "https://www.tendriade.fr/wp-content/uploads/visuel-lasagne-768x576.jpg",
-    "food02": "http://couteaux-et-tirebouchons.com/wp-content/uploads/2016/03/Pates-au-pesto-genovese-basilic-recette-italienne-e1589311775864.jpg",
-    "food03": "https://content-images.weber.com/content/Pizza-italienne.png?auto=compress,format&w=750",
+  "id": 2,
+      "country": "Afrique du Sud", 
+      "image01": "https://images.pexels.com/photos/963713/pexels-photo-963713.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "image02": "https://images.pexels.com/photos/59989/elephant-herd-of-elephants-african-bush-elephant-africa-59989.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
+      "image03": "https://images.pexels.com/photos/3889929/pexels-photo-3889929.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      ,
+      "Food01":  "https://assets.afcdn.com/recipe/20180927/82374_w1024h576c1cx683cy1540.webp",
+      "Food02": "https://s3.eu-central-1.amazonaws.com/media.quitoque.fr/recipe_w1536_h1024/recipes/images/chakalaka-ragout-de-courge-aux-epices/chakalaka-ragout-de-courge-aux-epices-1.jpg",
+      "Food03": "https://img.cuisineaz.com/660x660/2019/04/28/i146793-koeksisters.jpeg"
+      ,
+      "story01": "Robben Island (in English) or Robbeneiland (in Afrikaans) is an island in South Africa, located off Cape Town, 6.9 km west of the coast of Bloubergstrand. UNESCO in 1999, Robben Island was used as a prison, leper colony, psychiatric hospital and military defense post. In the twentieth century, black opponents of the apartheid regime, condemned to long sentences, were interned there, including three future South African presidents (Nelson Mandela, Kgalema Motlanthe and Jacob Zuma).",
+      "story02": "The Kirstenbosch Botanical Garden is located in the more affluent part of the Cape Town suburb of South Africa. This botanical garden is one of the most renowned in the world thanks to its collections and its exceptional location.",
+      "story03":"Tsitsikamma National Park is a South African national park located in the Western Cape Province next to Plettenberg Bay. The Tsitsikamma Marine Protected Area (MPA) is the oldest in the world, as it was created in 19641. The park covers an area of ​​298 km2. This park is located on a superb and narrow coastal strip approximately 5 km long on the 70 km of coast bordered on the one hand by the sea and on the other hand by the Garden Route. Tsitsikamma National Park is bounded on its western border by the village of Nature's Valley and on the east by the mouth of the Storms River (Storms River Mouth). The view of the coast from Tsitsikamma National Park is spectacular, especially when the waves are raging.",
       
-    "story01": "Le Colisee, a l'origine amphitheatre Flavien, est un immense amphitheatre ovoide situe dans le centre de la ville de Rome, entre l'Esquilin et le Caelius, le plus grand jamais construit dans l'Empire romain. Il est l'une des plus grandes oeuvres de l'architecture et de l'ingenierie romaines." ,
-    "story02": "La tour de Pise (en italien : torre di Pisa) est le campanile de la cathedrale Notre-Dame de l'Assomption de Pise, en Toscane (Italie). Elle est situee a proximite du chevet de la cathedrale et fait partie des monuments de la piazza dei Miracoli (la ' place des Miracles '), inscrit au patrimoine mondial de l'UNESCO.",
-    "story03": "La fontaine de Trevi est la plus grande et une des plus celebres fontaines de Rome. Realisee entre 1732 et 1762, elle est situee dans le rione de Trevi, sur la Piazza di Trevi, et est adossee au palais Poli." ,
-    
-    "monument01": "https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-    "monument02": "https://images.pexels.com/photos/4026103/pexels-photo-4026103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-    "monument03": "https://images.pexels.com/photos/4558416/pexels-photo-4558416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-    
-    "date01": "70 ap. J.-C.",
-    "date02": "9 aout 1173",
-    "date03": "Entre 1732 et 1762",
-    
-    "recipe01": [ 
-    "1 quart (4 cups) whole or 2% milk",
-    "1 heaping cup (175 g) semolina flour not the fast-cooking variety",
-    "1 teaspoon Diamond Crystal kosher salt plus more as desired",
-    "4 tablespoons (60 g) unsalted butter divided, plus more for greasing",
-    "1 heaping cup (3½ oz) freshly grated Parmigiano-Reggiano cheese",
-    "large pinch freshly grated nutmeg",
-    "freshly cracked black pepper to taste",
-    "2 large egg yolks"
-    ],
-    "recipe02": [
-      "1 tbsp olive oil",
-      "4 rashers smoked streaky bacon, finely chopped",
-      "2 medium onions, finely chopped",
-      "2 carrots, trimmed and finely chopped",
-      "2 celery sticks, finely chopped",
-      "2 garlic cloves finely chopped",
-      "2-3 sprigs rosemary leaves picked and finely chopped",
-      "500g beef mince",
-      "For the bolognese sauce",
-      "2 x 400g tins plum tomatoes",
-      "small pack basil leaves picked, ¾ finely chopped and the rest left whole for garnish",
-      "1 tsp dried oregano",
-      "2 fresh bay leaves",
-      "2 tbsp tomato purée",
-      "1 beef stock cube",
-      "1 red chilli deseeded and finely chopped (optional)",
-      "125ml red wine",
-      "6 cherry tomatoes sliced in half",
-      "To season and serve",
-      "75g parmesan grated, plus extra to serve",
-      "400g spaghetti"
-    ], 
-    "recipe03": [
-      "1/2 cup chopped onion",
-      "2 tablespoons pesto",
-      "2 tablespoons olive oil",
-      "2 tablespoons grated Parmesan cheese",
-      "1 (16 ounce) package pasta",
-      "salt to taste",
-      "ground black pepper to taste"
-    ] 
-  }
+      "monument01": "https://la1ere.francetvinfo.fr/image/LM7gS_dSM3dyp4RHVwAgPVk-9v0/600x400/outremer/2020/01/06/5e134f28e3eee_071_1184-1430-1253105.jpg",
+      "monument02": "https://media-cdn.tripadvisor.com/media/photo-s/14/8f/4e/38/view-of-mountain.jpg",
+      "monument03": "https://afriquedusud-decouverte.com/wp-content/uploads/2016/07/route-des-jardins-parc-tsitsikamma.jpg"
+      ,
+      "date01": "De 1961 a 1991", 
+      "date02": "1913",
+      "date03": "1964" ,
+        
+      "recipe01": [
+        "2 slices white bread",
+        "2 onions, chopped",
+        "25g butter",
+        "2 garlic cloves, crushed",
+        "1kg packet lean minced beef",
+        "2 tbsp Madras curry paste",
+        "1 tsp dried mixed herbs",
+        "3 cloves",
+        "5 allspice berries",
+        "2 tbsp peach or mango chutney",
+        "3 tbsp sultana",
+        "6 bay leaves",
+        "For the topping",
+        "300ml full-cream milk",
+        "2 large eggs"
+      ],
+      "recipe02": [
+        "Syrup",
+        "4 cups (1 litre) Chelsea White Sugar",
+        "2 1/2 cups (625 ml) water",
+        "1 cinnamon stick",
+        "1 x 2,5 cm piece fresh root ginger",
+        "1 Tbsp (15 ml) lemon juice",
+        "1/2 tsp (2,5 ml) cream of tartar",
+        "1/2 tsp glycerine (optional for extra shiny koeksisters)",
+
+        "Dough",
+        "4 cups (4 x 250 ml) High grade flour",
+        "1/2 tsp (2,5 ml) salt",
+        "4 tsp (20 ml) baking powder",
+        "1 Tbsp (15 ml) sugar",
+        "1/4 cup (60 ml) butter",
+        "2 eggs",
+        "1/2 cup (125 ml) milk",
+        "1/2 cup (125 ml) water"
+      ],
+      "recipe03": [
+        "1/4 cup cooking oil",
+        "1 medium onion diced",
+        "1-2 teaspoon curry powder",
+        "2 teaspoons garlic minced",
+        "1/2 teaspoon thyme",
+        "1/2 teaspoon smoked paprika",
+        "1 teaspoon cayenne pepper",
+        "1/2 teaspoon ginger minced",
+        "1-2 tomatoes",
+        "3-4 cups sliced cabbage",
+        "1 -2 Chili peppers diced seeds removed for less heat",
+        "1 large carrot grated on the large side or sliced thinly",
+        "1 medium green pepper diced",
+        "1 medium red pepper diced",
+        "1 14 ounce baked beans",
+        "1 teaspoons bouillon powder optional"
+      ]
+    }
