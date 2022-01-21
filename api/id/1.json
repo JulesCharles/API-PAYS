@@ -5,6 +5,9 @@
       "image02": "https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
       "image03": "https://images.pexels.com/photos/5864071/pexels-photo-5864071.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 
+      "foodName01": "Lasagne",
+      "foodName02": "Spaghettis au Pesto",
+      "foodName03": "Pizza",
   
       "food01": "https://www.tendriade.fr/wp-content/uploads/visuel-lasagne-768x576.jpg",
       "food02": "http://couteaux-et-tirebouchons.com/wp-content/uploads/2016/03/Pates-au-pesto-genovese-basilic-recette-italienne-e1589311775864.jpg",
@@ -14,6 +17,10 @@
       "story02": "La tour de Pise (en italien : torre di Pisa) est le campanile de la cathedrale Notre-Dame de l'Assomption de Pise, en Toscane (Italie). Elle est situee a proximite du chevet de la cathedrale et fait partie des monuments de la piazza dei Miracoli (la ' place des Miracles '), inscrit au patrimoine mondial de l'UNESCO.",
       "story03": "La fontaine de Trevi est la plus grande et une des plus celebres fontaines de Rome. Realisee entre 1732 et 1762, elle est situee dans le rione de Trevi, sur la Piazza di Trevi, et est adossee au palais Poli." ,
       
+      "monumentName01": "Le Colisee",
+      "monumentName02": "La tour de Pise",
+      "monumentName03": "La fontaine de Trevi",
+
       "monument01": "https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "monument02": "https://images.pexels.com/photos/4026103/pexels-photo-4026103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "monument03": "https://images.pexels.com/photos/4558416/pexels-photo-4558416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",

@@ -5,6 +5,11 @@
       "image02": "https://images.pexels.com/photos/3021252/pexels-photo-3021252.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image03": "https://images.pexels.com/photos/10470133/pexels-photo-10470133.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
       , 
+
+      "foodName01": "coxinha",
+      "foodName02": "feijoada",
+      "foodName03": "torta de abacaxi",
+
       "food01": "https://images.pexels.com/photos/7182998/pexels-photo-7182998.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "Food02": "https://images.pexels.com/photos/5695874/pexels-photo-5695874.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "Food03": "https://images.pexels.com/photos/5419172/pexels-photo-5419172.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
@@ -12,6 +17,10 @@
       "story01": "The Corcovado is one of the many landforms in the city of Rio de Janeiro. It rises to 704 meters above sea level. It is famous for hosting the statue of Christ the Redeemer, one of the main symbols of the city and the country, at its summit, and for offering a view of the entire southern area of the city.",
       "story02": "Located on the border between Argentina and Brazil, these famous falls have been a UNESCO World Heritage Site since 1984 as natural wonders.",
       "story03": "A vast plain crossed by the Amazon River, this region of South America spans several countries (Colombia, Bolivia, Ecuador ...) and of course Brazil! In this one alone, the Amazon covers 60% of the territory! Spread over several states in the north of the country, this immense green region is the lungs of our dear planet",
+
+      "monumentName01": "Pain de Sucre",
+      "monumentName02": "Santo Antonio de Lisboa",
+      "monumentName03": "Pantao Do Lago Sul",
 
       "monument01": "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "monument02": "https://images.pexels.com/photos/1203565/pexels-photo-1203565.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",

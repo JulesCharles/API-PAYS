@@ -5,6 +5,10 @@
       "image02": "https://images.pexels.com/photos/3567163/pexels-photo-3567163.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image03": "https://images.pexels.com/photos/4993166/pexels-photo-4993166.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         
+      "foodName01": "Chicken Parma",
+      "foodName02": "Jam Drops",
+      "foodName03": "Rissoles",
+
       "food01": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-202102-airfryerchickenparm-180-ls-1612561654.jpg",
       "food02": "https://theorganisedhousewife.com.au/wp-content/uploads/2013/09/Delicious-Jam-Drops-cookie-biscuit-recipe.jpg",
       "food03": "https://img.delicious.com.au/NS8mqC2I/del/2018/04/matt-prestons-worlds-best-rissoles-76593-2.jpg",
@@ -12,6 +16,10 @@
       "story01": "Inauguration en grande pompe en 1973 par la reine Elisabeth II. Sept ans apres le depart de Jorn Utzon, l'opera est acheve. En 1973, la reine Elisabeth II l'inaugure officiellement, en grande pompe, avec feux d'artifice et la Neuvieme symphonie de Beethoven en fond sonore" ,
       "story02": "Le phare est le plus puissant d'Australie. Il a une portée de 27 miles marins, soit 50 km. Le cap a été appelé ainsi par le capitaine James Cook le 15 mai 1770 en hommage à John Byron qui avait fait le tour du monde sur son navire le HMS Dolphin entre 1764 et 1766." ,
       "story03": "Le Newcastle Memorial Walk a été inauguré en 2015 pour commémorer le 100e anniversaire du débarquement de l'ANZAC à Gallipoli. En plus d'honorer les sacrifices consentis par les soldats australiens pendant la Première Guerre mondiale, cette date marque également le début de la fabrication de l'acier à Newcastle ; la promenade commémorative de l'ANZAC a été construite avec 64 tonnes d'acier inoxydable pour cette raison." ,
+
+      "monumentName01": "Opéra de Sydney",
+      "monumentName02": "Sydney Harbour Bridge",
+      "monumentName03": "Pont goodwill",
 
       "monument01": "https://images.pexels.com/photos/2193300/pexels-photo-2193300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "monument02": "https://images.pexels.com/photos/3569263/pexels-photo-3569263.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",  

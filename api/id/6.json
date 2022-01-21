@@ -4,6 +4,10 @@
       "image01": "https://images.pexels.com/photos/1525612/pexels-photo-1525612.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image02": "https://images.pexels.com/photos/2168974/pexels-photo-2168974.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image03": "https://images.pexels.com/photos/2168975/pexels-photo-2168975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+
+      "foodName01": "Cheeseburger",
+      "foodName02": "Buffalo Chicken",
+      "foodName03": "Mac and Cheese",
       
       "food01": "https://www.club-sandwich.net/images/photoarticles/burger-us-pb.jpg",
       "food02": "https://www.cnewyork.net/wp-content/uploads/2020/07/recette-buffalo-chicken-wings.jpg",
@@ -18,6 +22,11 @@
       "monument02": "https://images.pexels.com/photos/2190283/pexels-photo-2190283.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "monument03": "https://images.pexels.com/photos/946688/pexels-photo-946688.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
       ,
+
+      "monumentName01": "Mémorial du 11 Septembre",
+      "monumentName02": "Statue de la liberté ",
+      "monumentName03": "Central Park",
+      
       "date01": "Septembre 1875", 
       "date02": "17 mars 1930",
       "date03": "1858",
