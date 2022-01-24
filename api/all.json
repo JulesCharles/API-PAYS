@@ -84,9 +84,9 @@
       "foodName02": "Koeksisters",
       "foodName03": "Chakalaka",
     
-      "Food01":  "https://assets.afcdn.com/recipe/20180927/82374_w1024h576c1cx683cy1540.webp",
-      "Food02": "https://s3.eu-central-1.amazonaws.com/media.quitoque.fr/recipe_w1536_h1024/recipes/images/chakalaka-ragout-de-courge-aux-epices/chakalaka-ragout-de-courge-aux-epices-1.jpg",
-      "Food03": "https://img.cuisineaz.com/660x660/2019/04/28/i146793-koeksisters.jpeg"
+      "food01":  "https://assets.afcdn.com/recipe/20180927/82374_w1024h576c1cx683cy1540.webp",
+      "food02": "https://s3.eu-central-1.amazonaws.com/media.quitoque.fr/recipe_w1536_h1024/recipes/images/chakalaka-ragout-de-courge-aux-epices/chakalaka-ragout-de-courge-aux-epices-1.jpg",
+      "food03": "https://img.cuisineaz.com/660x660/2019/04/28/i146793-koeksisters.jpeg"
       ,
       "story01":  "Robben Island (in English) or Robbeneiland (in Afrikaans) is an island in South Africa, located off Cape Town, 6.9 km west of the coast of Bloubergstrand. UNESCO in 1999, Robben Island was used as a prison, leper colony, psychiatric hospital and military defense post. In the twentieth century, black opponents of the apartheid regime, condemned to long sentences, were interned there, including three future South African presidents (Nelson Mandela, Kgalema Motlanthe and Jacob Zuma).",
       "story02":  "The Kirstenbosch Botanical Garden is located in the more affluent part of the Cape Town suburb of South Africa. This botanical garden is one of the most renowned in the world thanks to its collections and its exceptional location.",
@@ -171,9 +171,9 @@
       "foodName02": "Rice and peas",
       "foodName03": "Ackee and saltfish",
          
-      "Food01": "https://1.bp.blogspot.com/-nSWEuux8iko/Xw4067EKgPI/AAAAAAABQE8/NWvVw7stwSYT4e39V0eSb0a2habrFPd9ACLcBGAsYHQ/s660/poulet-jerk-jamaicain-ou-jerk-chicken.jpg",
-      "Food02": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2016%2F02%2Fjamaican-rice-and-peas-xl-recipe2017.jpg",
-      "Food03": "https://www.seriouseats.com/thmb/zw3MLLp7KeCZeqgblOnsnJ2fug0=/1500x1125/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__09__20200829-saltfish-ackee-vicky-wasik-1-f066e2f6aa5e4ebb84637cfcec31eb5f.jpg"
+      "food01": "https://1.bp.blogspot.com/-nSWEuux8iko/Xw4067EKgPI/AAAAAAABQE8/NWvVw7stwSYT4e39V0eSb0a2habrFPd9ACLcBGAsYHQ/s660/poulet-jerk-jamaicain-ou-jerk-chicken.jpg",
+      "food02": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2016%2F02%2Fjamaican-rice-and-peas-xl-recipe2017.jpg",
+      "food03": "https://www.seriouseats.com/thmb/zw3MLLp7KeCZeqgblOnsnJ2fug0=/1500x1125/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__09__20200829-saltfish-ackee-vicky-wasik-1-f066e2f6aa5e4ebb84637cfcec31eb5f.jpg"
       ,
       "story01": "Marley s'installe alors à Kingston, au 56 Hope Road. Dans cette ancienne bâtisse coloniale qu'il rachète en 1975, il y installe son label, Tuff Gong, et le studio où il enregistrera ses albums en solo, le Tuff Gong Studio. ... Six ans après sa mort, la maison devient le Musée Bob Marley en 1987.",
       "story02": "",
@@ -302,7 +302,7 @@
     {
       "id": 5,
       "country": "Thailande", 
-      "image01": "https://images.pexels.com/photos/1074442/pexels-photo-1074442.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "image01": "https://media-cdn.tripadvisor.com/media/photo-s/10/6e/65/c8/laab-salade-de-boeuf.jpg",
       "image02": "https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image03": "https://images.pexels.com/photos/4024726/pexels-photo-4024726.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
       ,
@@ -312,8 +312,8 @@
       "foodName03": "Brochettes de poulet satay",
 
       "food01": "https://images.pexels.com/photos/2454533/pexels-photo-2454533.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "Food02": "https://images.pexels.com/photos/9056984/pexels-photo-9056984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
-      "Food03": "https://images.pexels.com/photos/5424049/pexels-photo-5424049.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
+      "food02": "https://images.pexels.com/photos/9056984/pexels-photo-9056984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
+      "food03": "https://images.pexels.com/photos/5424049/pexels-photo-5424049.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
   
       ,
       "story01": "Wat Pho (Thai วัด โพธิ์, wát pʰoː), or Wat Phra Chettuphon (Temple of the Reclining Buddha), is one of the largest and oldest Buddhist temples in Bangkok.",
@@ -450,8 +450,8 @@
       "foodName03": "torta de abacaxi",
 
       "food01": "https://images.pexels.com/photos/7182998/pexels-photo-7182998.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "Food02": "https://images.pexels.com/photos/5695874/pexels-photo-5695874.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "Food03": "https://images.pexels.com/photos/5419172/pexels-photo-5419172.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      "food02": "https://images.pexels.com/photos/5695874/pexels-photo-5695874.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "food03": "https://images.pexels.com/photos/5419172/pexels-photo-5419172.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
       ,
       "story01": "The Corcovado is one of the many landforms in the city of Rio de Janeiro. It rises to 704 meters above sea level. It is famous for hosting the statue of Christ the Redeemer, one of the main symbols of the city and the country, at its summit, and for offering a view of the entire southern area of the city.",
       "story02": "Located on the border between Argentina and Brazil, these famous falls have been a UNESCO World Heritage Site since 1984 as natural wonders.",
