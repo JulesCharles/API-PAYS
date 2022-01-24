@@ -1,11 +1,11 @@
 {
   "id": 1,
-      "country": "Italia", 
+      "country": "Italie", 
       "image01":"https://images.pexels.com/photos/5227440/pexels-photo-5227440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image02": "https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
       "image03": "https://images.pexels.com/photos/5864071/pexels-photo-5864071.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 
-      "foodName01": "Lasagne",
+      "foodName01": "Lasagnes",
       "foodName02": "Spaghettis au Pesto",
       "foodName03": "Pizza",
   
@@ -26,42 +26,16 @@
       "monument03": "https://images.pexels.com/photos/4558416/pexels-photo-4558416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       
       "date01": "70 ap. J.-C.",
-      "date02": "9 aout 1173",
+      "date02": "9 aoüt 1173",
       "date03": "Entre 1732 et 1762",
       
       "recipe01": [ 
-            "Les lasagnes sont des pâtes alimentaires en forme de larges plaques. Il s'agit également de la préparation utilisant ces mêmes pâtes et généralement faite de couches alternées de pâtes, fromage et d'une sauce tomate avec de la viande (avec sauce béchamel).Elles sont d origine italienne, notablement de Bologne. Le mot italien lasagna est dérivé du grec ancien λάσανα / lásana qui signifie « trépied de cuisine ». Ce mot fut ensuite employé par les Romains pour désigner un récipient de cuisson, le lasanum. Les Italiens employèrent ensuite le mot pour désigner le plat dans lequel les lasagnes étaient faites. Maintenant, le mot lasagna (lasagne au pluriel) ne désigne plus que la préparation.Les premières références aux lasagnes datent du XIIIe siècle. Les recettes de cette époque n'utilisaient pas de tomates qui étaient alors inconnues en Europe.Les lasagnes vertes (lasagne verdi) sont une variante des pâtes auxquelles des épinards ont été ajoutés.Selon les recettes, différents fromages sont utilisés ; le plus souvent de la ricotta, de la mozzarella ou du parmesan."
+        "Les lasagnes sont des pâtes alimentaires en forme de larges plaques. Il s'agit également de la préparation utilisant ces mêmes pâtes et généralement faite de couches alternées de pâtes, fromage et d'une sauce tomate avec de la viande (avec sauce béchamel).Elles sont d origine italienne, notablement de Bologne. Le mot italien lasagna est dérivé du grec ancien λάσανα / lásana qui signifie « trépied de cuisine ». Ce mot fut ensuite employé par les Romains pour désigner un récipient de cuisson, le lasanum. Les Italiens employèrent ensuite le mot pour désigner le plat dans lequel les lasagnes étaient faites. Maintenant, le mot lasagna (lasagne au pluriel) ne désigne plus que la préparation.Les premières références aux lasagnes datent du XIIIe siècle. Les recettes de cette époque n'utilisaient pas de tomates qui étaient alors inconnues en Europe.Les lasagnes vertes (lasagne verdi) sont une variante des pâtes auxquelles des épinards ont été ajoutés.Selon les recettes, différents fromages sont utilisés ; le plus souvent de la ricotta, de la mozzarella ou du parmesan."
       ],
       "recipe02": [
-        "1 tbsp olive oil",
-        "4 rashers smoked streaky bacon, finely chopped",
-        "2 medium onions, finely chopped",
-        "2 carrots, trimmed and finely chopped",
-        "2 celery sticks, finely chopped",
-        "2 garlic cloves finely chopped",
-        "2-3 sprigs rosemary leaves picked and finely chopped",
-        "500g beef mince",
-        "For the bolognese sauce",
-        "2 x 400g tins plum tomatoes",
-        "small pack basil leaves picked, ¾ finely chopped and the rest left whole for garnish",
-        "1 tsp dried oregano",
-        "2 fresh bay leaves",
-        "2 tbsp tomato purée",
-        "1 beef stock cube",
-        "1 red chilli deseeded and finely chopped (optional)",
-        "125ml red wine",
-        "6 cherry tomatoes sliced in half",
-        "To season and serve",
-        "75g parmesan grated, plus extra to serve",
-        "400g spaghetti"
+        "Le pesto est une préparation culinaire de Ligurie (nord-ouest de l'Italie) à base de basilic, de pignons de pin, de fromage, de marjolaine ou de persil, d'huile d'olive, d'ail et d'un bouillon. Le basilic employé doit être du basilico genovese. Dans la province de Catane, à la place du basilic et des pignons, on utilise du pistacchio Verde et de la roquette. À Trapani, dans le pesto alla trapanese, les pignons sont remplacés par des amandes et on y ajoute des tomates pilées."
       ], 
       "recipe03": [
-        "1/2 cup chopped onion",
-        "2 tablespoons pesto",
-        "2 tablespoons olive oil",
-        "2 tablespoons grated Parmesan cheese",
-        "1 (16 ounce) package pasta",
-        "salt to taste",
-        "ground black pepper to taste"
+       "La pizza est une recette de cuisine traditionnelle de la cuisine italienne, originaire de Naples à base de galette de pâte à pain, garnie de divers mélanges d’ingrédients (sauce tomate, tomates séchées, légumes, fromage, charcuterie, olives, huile d'olive…)1 et cuite au four. Plat emblématique de la culture italienne, et de la restauration rapide dans le monde entier, elle est déclinée sous de multiples variantes. « L'art de fabriquer des pizzas napolitaines artisanales traditionnelles par les pizzaïolos napolitains » est inscrit au Patrimoine mondial de l'UNESCO depuis 2017."
       ] 
     }
