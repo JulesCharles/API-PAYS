@@ -14,13 +14,13 @@
       "food02": "https://s3.eu-central-1.amazonaws.com/media.quitoque.fr/recipe_w1536_h1024/recipes/images/chakalaka-ragout-de-courge-aux-epices/chakalaka-ragout-de-courge-aux-epices-1.jpg",
       "food03": "https://img.cuisineaz.com/660x660/2019/04/28/i146793-koeksisters.jpeg"
       ,
-      "story01": "Robben Island (in English) or Robbeneiland (in Afrikaans) is an island in South Africa, located off Cape Town, 6.9 km west of the coast of Bloubergstrand. UNESCO in 1999, Robben Island was used as a prison, leper colony, psychiatric hospital and military defense post. In the twentieth century, black opponents of the apartheid regime, condemned to long sentences, were interned there, including three future South African presidents (Nelson Mandela, Kgalema Motlanthe and Jacob Zuma).",
-      "story02": "The Kirstenbosch Botanical Garden is located in the more affluent part of the Cape Town suburb of South Africa. This botanical garden is one of the most renowned in the world thanks to its collections and its exceptional location.",
-      "story03":"Tsitsikamma National Park is a South African national park located in the Western Cape Province next to Plettenberg Bay. The Tsitsikamma Marine Protected Area (MPA) is the oldest in the world, as it was created in 19641. The park covers an area of ​​298 km2. This park is located on a superb and narrow coastal strip approximately 5 km long on the 70 km of coast bordered on the one hand by the sea and on the other hand by the Garden Route. Tsitsikamma National Park is bounded on its western border by the village of Nature's Valley and on the east by the mouth of the Storms River (Storms River Mouth). The view of the coast from Tsitsikamma National Park is spectacular, especially when the waves are raging.",
+      "story01": "Robben Island (en anglais) ou Robbeneiland (en afrikaans) est une île d'Afrique du Sud, située au large du Cap, à 6,9 km à l'ouest de la côte de Bloubergstrand.Inscrite sur la liste du patrimoine mondial de l'UNESCO en 1999, Robben Island a été utilisée comme prison, léproserie, hôpital psychiatrique et poste militaire de défense. Au xxe siècle, les opposants noirs au régime d'apartheid, condamnés à de longues peines, y furent internés dont trois futurs présidents sud-africains (Nelson Mandela, Kgalema Motlanthe et Jacob Zuma).",
+      "story02": "Le Kirstenbosch s’étend sur 532 hectares sur le flanc oriental de la Table Mountain, à Cape Town. C’est l’un des jardins botaniques les plus renommés au monde grâce à ses collections et sa situation exceptionnelle. Il est géré par le South African National Biodiversity Institute (Sanbi).",
+      "story03":"Le parc national de Tsitsikamma est situé au cœur de la région pittoresque connu sous le nom de Garden Route ou route des jardins au sud de l’Afrique du Sud et fait partit du royaume floral du Cap.C’est en 1964 que le parc Tsitsikamma devint le premier parc marin d’Afrique du Sud dans le but de protéger les merveilles de cette région. Il devint en même temps la première zone littorale protégée du monde."
       
       "monumentName01": "Robben Island",
-      "monumentName02": "The Kirstenbosch botanical Garden",
-      "monumentName03": "Tsitsikamma National Park",
+      "monumentName02": "Kirstenbosch, jardin botanique",
+      "monumentName03": "Parc National Tsitsikamma ",
 
       "monument01": "https://la1ere.francetvinfo.fr/image/LM7gS_dSM3dyp4RHVwAgPVk-9v0/600x400/outremer/2020/01/06/5e134f28e3eee_071_1184-1430-1253105.jpg",
       "monument02": "https://media-cdn.tripadvisor.com/media/photo-s/14/8f/4e/38/view-of-mountain.jpg",
@@ -32,44 +32,14 @@
         
       "recipe01": [
         "Le bobotie est un plat sud-africain à base de viande hachée, de sauce tomate, de chutney, de raisins secs, d'épices, et d'une garniture à base d'œuf et de pain imbibé de lait.",
-        "Il est gratiné au four, et servi avec du riz, agrémenté de légumes, de fruits, ou de fruits à coque."
+        " Il est gratiné au four, et servi avec du riz, agrémenté de légumes, de fruits, ou de fruits à coque."
+        " Le nom est dérivé de l'indonésien Bobotok. La recette a été importée en Afrique du Sud depuis le xviie siècle et a été adoptée par la communauté des Malais du Cap1."
       ],
       "recipe02": [
-        "Syrup",
-        "4 cups (1 litre) Chelsea White Sugar",
-        "2 1/2 cups (625 ml) water",
-        "1 cinnamon stick",
-        "1 x 2,5 cm piece fresh root ginger",
-        "1 Tbsp (15 ml) lemon juice",
-        "1/2 tsp (2,5 ml) cream of tartar",
-        "1/2 tsp glycerine (optional for extra shiny koeksisters)",
-
-        "Dough",
-        "4 cups (4 x 250 ml) High grade flour",
-        "1/2 tsp (2,5 ml) salt",
-        "4 tsp (20 ml) baking powder",
-        "1 Tbsp (15 ml) sugar",
-        "1/4 cup (60 ml) butter",
-        "2 eggs",
-        "1/2 cup (125 ml) milk",
-        "1/2 cup (125 ml) water"
+        "Une koeksister, koeksuster est une pâtisserie sud-africaine à la pâte de beignet tressée et enrobée de sirop. La pâte est frite comme les beignets, puis trempée dans un bain de sirop de canne froid. Les koeksisters se mangent froides, sont très collantes et sucrées et leur goût se rapproche du miel."
+        "Le nom provient du néerlandais koek qui signifie gâteau et la partie sister ou suster serait une déformation de sisser et signifierait « friture » mais pour Boshoff, cette partie doit être comprise comme « suster » (sœur) parce que ce beignet est tressé un peu à la manière d'une poupée."
       ],
       "recipe03": [
-        "1/4 cup cooking oil",
-        "1 medium onion diced",
-        "1-2 teaspoon curry powder",
-        "2 teaspoons garlic minced",
-        "1/2 teaspoon thyme",
-        "1/2 teaspoon smoked paprika",
-        "1 teaspoon cayenne pepper",
-        "1/2 teaspoon ginger minced",
-        "1-2 tomatoes",
-        "3-4 cups sliced cabbage",
-        "1 -2 Chili peppers diced seeds removed for less heat",
-        "1 large carrot grated on the large side or sliced thinly",
-        "1 medium green pepper diced",
-        "1 medium red pepper diced",
-        "1 14 ounce baked beans",
-        "1 teaspoons bouillon powder optional"
+        "Le Chakalaka est une recette traditionnelle d'Afrique du Sud. Il s'agit d'un mets à base de poivrons rouges, de tomates, d'haricots blancs, de pois chiches d'oignon et d'ail. Délicieusement épicée, cette recette accompagne généralement du riz blanc, du poisson ou encore de la viande. Vous pouvez aussi bien le déguster chaud que froid en guise d'entrée ! Une chose est sûre ce Chakalaka mettra du soleil dans vos assiettes."
       ]
     }
