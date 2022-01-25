@@ -1,17 +1,17 @@
 {
   "id": 4,
-      "country": "Australia", 
+      "country": "Australie", 
       "image01": "https://images.pexels.com/photos/2097616/pexels-photo-2097616.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image02": "https://images.pexels.com/photos/3567163/pexels-photo-3567163.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image03": "https://images.pexels.com/photos/4993166/pexels-photo-4993166.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         
-      "foodName01": "Chicken Parma",
-      "foodName02": "Jam Drops",
-      "foodName03": "Rissoles",
+      "foodName01": "Tarte à la viande “aussie”",
+      "foodName02": "Lamington",
+      "foodName03": "Witchetty grub",
 
-      "food01": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-202102-airfryerchickenparm-180-ls-1612561654.jpg",
-      "food02": "https://theorganisedhousewife.com.au/wp-content/uploads/2013/09/Delicious-Jam-Drops-cookie-biscuit-recipe.jpg",
-      "food03": "https://img.delicious.com.au/NS8mqC2I/del/2018/04/matt-prestons-worlds-best-rissoles-76593-2.jpg",
+      "food01": "https://i.pinimg.com/564x/49/ac/c2/49acc2b39d67025c5fd96f94a14dfdfb.jpg",
+      "food02": "https://australie-voyage.fr/wp-content/uploads/2021/01/pot-vegemite-768x367.jpg",
+      "food03": "https://www.demotivateur.fr/images-buzz/10043/3583067725_ece7564305_b.jpg",
       
       "story01": "Inauguration en grande pompe en 1973 par la reine Elisabeth II. Sept ans apres le depart de Jorn Utzon, l'opera est acheve. En 1973, la reine Elisabeth II l'inaugure officiellement, en grande pompe, avec feux d'artifice et la Neuvieme symphonie de Beethoven en fond sonore" ,
       "story02": "Le phare est le plus puissant d'Australie. Il a une portée de 27 miles marins, soit 50 km. Le cap a été appelé ainsi par le capitaine James Cook le 15 mai 1770 en hommage à John Byron qui avait fait le tour du monde sur son navire le HMS Dolphin entre 1764 et 1766." ,
@@ -30,36 +30,12 @@
       "date03": "28 juillet 1923",
       
       "recipe01": [
-        "INGREDIENTS",
-        "2 large boneless chicken breasts",
-        "Kosher salt",
-        "Freshly ground black pepper",
-        "1/3 c. all-purpose flour",
-        " 2 large eggs",
-        "1 c. panko bread crumbs",
-        "1/4 c. freshly grated Parmesan",
-        "1 tsp. dried oregano",
-        " 1/2 tsp. garlic powder",
-        " 1/2 tsp. crushed red pepper flakes" ,
-        "1 c. marinara sauce",
-        "1 c. shredded mozzarella",
-        "Freshly chopped parsley, for garnish"
+        "La culture britannique est toujours bien présente en Australie et s’exprime à travers la traditionnelle tarte couverte à la viande que l’on peut retrouver aussi bien en Grande-Bretagne qu’aux États-Unis. Seulement, l’Australie lui apporte un petit twist en préparant la garniture de viande dans une sauce à base de tomate, de sauce barbecue et de Vegemite, une pâte brune à base de levure, réel emblème de la gastronomie du pays."
       ],
       "recipe02": [ 
-        "200 g of butter",
-        "150 g of icing sugar",
-        "315 g of flour",
-        "1 egg",
-        "1 teaspoon of liquid vanilla extract",
-        "1/2 jar of jam of your choice"
+        "Le Lamington est une icône australienne si bien qu’il existe une journée nationale pour l’honorer. Composé d’un carré de gâteau éponge, qui est recouvert d’une couche de glaçage au chocolat et roulé dans de la noix de coco râpée déshydratée. Au Queensland, d’où provient la recette, ils sont encore préparés de façon traditionnelle. À Victoria et au Sud de l’Australie, ils sont fourrés à la confiture, alors que dans l’Ouest de l’Australie, ils sont fourrés à la crème Ce dessert aurait été créé par le chef cuisinier de Lord Lamington, gouverneur de Bombay au XXe siècle."
       ],
       "recipe03": [
-        "1 kg of wheat flour",
-        "150 g of melted margarine",
-        "10 g of powdered sugar",
-        "5 whole eggs",
-        "30 g of dehydrated baker's yeast",
-        "Cold water",
-        "10 g of fine salt"
+        "Pour les plus aventureux d’entre vous, osez le Witchetty grub, le plat le plus ancien de l’île puisqu’il est consommé par les aborigènes depuis des centaines d’années. Au milieu du désert australien vit une larve qui grandit dans les troncs des arbres. Pouvant mesurer plus d’une dizaine de centimètres, il se mange bien grillé et on assure là-bas que son goût est similaire au poulet. C’est ce qu’ils disent toujours…"
   ]
 }
