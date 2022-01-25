@@ -13,20 +13,20 @@
       "food02": "http://couteaux-et-tirebouchons.com/wp-content/uploads/2016/03/Pates-au-pesto-genovese-basilic-recette-italienne-e1589311775864.jpg",
       "food03": "https://content-images.weber.com/content/Pizza-italienne.png?auto=compress,format&w=750",
         
-      "story01": "Le Colisee, a l'origine amphitheatre Flavien, est un immense amphitheatre ovoide situe dans le centre de la ville de Rome, entre l'Esquilin et le Caelius, le plus grand jamais construit dans l'Empire romain. Il est l'une des plus grandes oeuvres de l'architecture et de l'ingenierie romaines." ,
-      "story02": "La tour de Pise (en italien : torre di Pisa) est le campanile de la cathedrale Notre-Dame de l'Assomption de Pise, en Toscane (Italie). Elle est situee a proximite du chevet de la cathedrale et fait partie des monuments de la piazza dei Miracoli (la ' place des Miracles '), inscrit au patrimoine mondial de l'UNESCO.",
-      "story03": "La fontaine de Trevi est la plus grande et une des plus celebres fontaines de Rome. Realisee entre 1732 et 1762, elle est situee dans le rione de Trevi, sur la Piazza di Trevi, et est adossee au palais Poli." ,
+      "story01": "Le Colisée (Colosseo en italien), à l'origine amphithéâtre Flavien (amphitheatrum Flavium en latin), est un immense amphithéâtre ovoïde situé dans le centre de la ville de Rome, entre l'Esquilin et le Cælius, le plus grand jamais construit dans l'Empire romain. Il est l'une des plus grandes œuvres de l'architecture et de l'ingénierie romaines." ,
+      "story02": "La tour de Pise (en italien : torre di Pisa) est le campanile de la cathédrale Notre-Dame de l'Assomption de Pise, en Toscane (Italie). Elle est située à proximité du chevet de la cathédrale et fait partie des monuments de la piazza dei Miracoli (la 'place des Miracles'), inscrit au patrimoine mondial de l'UNESCO.",
+      "story03": "La fontaine de Trevi est la plus grande et une des plus célèbres fontaines de Rome. Réalisée entre 1732 et 1762, elle est située dans le rione de Trevi, sur la Piazza di Trevi, et est adossée au palais Poli." ,
       
-      "monumentName01": "Le Colisee",
+      "monumentName01": "Le Colisée",
       "monumentName02": "La tour de Pise",
-      "monumentName03": "La fontaine de Trevi",
+      "monumentName03": "La fontaine de Trévi",
 
       "monument01": "https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "monument02": "https://images.pexels.com/photos/4026103/pexels-photo-4026103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "monument03": "https://images.pexels.com/photos/4558416/pexels-photo-4558416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       
       "date01": "70 ap. J.-C.",
-      "date02": "9 aoüt 1173",
+      "date02": "9 août 1173",
       "date03": "Entre 1732 et 1762",
       
       "recipe01": [ 
