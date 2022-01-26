@@ -6,15 +6,14 @@
       "image03": "https://images.pexels.com/photos/2168975/pexels-photo-2168975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 
       "foodName01": "Cheeseburger",
-      "foodName02": "Buffalo Chicken",
+      "foodName02": "Hot Dogs",
       "foodName03": "Mac and Cheese",
       
       "food01": "https://www.club-sandwich.net/images/photoarticles/burger-us-pb.jpg",
-      "food02": "https://www.cnewyork.net/wp-content/uploads/2020/07/recette-buffalo-chicken-wings.jpg",
-      "food03": "https://img.mesrecettesfaciles.fr/2019-08/hot-dog-16537-1000x500.jpg",
+      "food02": "https://img.mesrecettesfaciles.fr/2019-08/hot-dog-16537-1000x500.jpg",
+      "food03": "https://www.luvgourmet.com.br/wp-content/uploads/2015/09/receita-mac-n-cheese-americana-300x184.png
 
-
-      "story01": "La Liberté éclairant le monde1,2 (en anglais : Liberty Enlightening the World)3, ou simplement Liberté, plus connue sous le nom de statue de la Liberté (Statue of Liberty), est l'un des monuments les plus célèbres des États-Unis. Cette statue monumentale est située à New York, sur la Liberty Island, au sud de Manhattan, à l'embouchure de l'Hudson et à proximité d’Ellis Island.",
+      "story01": "La Liberté éclairant le monde, (en anglais : Liberty Enlightening the World), ou simplement Liberté, plus connue sous le nom de statue de la Liberté (Statue of Liberty), est l'un des monuments les plus célèbres des États-Unis. Cette statue monumentale est située à New York, sur la Liberty Island, au sud de Manhattan, à l'embouchure de l'Hudson et à proximité d’Ellis Island.",
       "story02": "L’Empire State Building est un gratte-ciel de style Art déco situé dans l'arrondissement de Manhattan, à New York. Il est situé dans le quartier de Midtown au 350 de la 5ᵉ Avenue, entre les 33ᵉ et 34ᵉ rues. Inauguré le 1ᵉʳ mai 1931, il mesure 381 mètres et compte 102 étages.",
       "story03": "Le parc fut créé en 1857 suite à la volonté de la population qui souhaitait un espace vert dans la ville. En effet, au début des années 1800, New York est déjà une ville fortement peuplée avec environ 200 000 habitants en 1830. L’Etat décide alors de construire le parc sur un terrain en friche. Suite à un concours pour les plans du futur projet, Frederick Law Olmsted et Calvert Vaux sont retenus." ,
 
@@ -35,7 +34,9 @@
         "Icône de la cuisine américaine, le burger est évidemment incontournable à New York ! Toutefois, pour goûter un vrai burger new-yorkais, avec du goût, je vous conseille vivement de fuir les Mac Ronald’s et autres chaînes de fast food présentes dans le monde entier. Poussez plutôt la porte des petites adresses et des « diners » qui vous feront goûter un burger authentique, cuisiné rien que pour vous."
       ],
       "recipe02": [
-        ""
+        "New York, ses boutiques, ses gratte-ciels, son équipe de baseball et ses hot-dogs ! Impossible de passer à côté de cette spécialité culinaire lorsque l'on séjourne dans cette ville. Les vendeurs de hot-dogs sont présents à chaque coin de rue ou presque. S'il existe une grande variété de recettes, le vrai hot dog New Yorkais utilise des ingrédients bien précis. Le hot-dog est un sandwich à la recette assez simple. Cet encas repose sur une saucisse cuite composée de viande de boeuf et parfois de porc, dans un pain brioché non sucré et de forme allongée. La recette d'origine, celle qui compose le vrai hot dog New Yorkais comprend aussi de l'oignon finement coupé, un peu de choucroute, de la relish et, bien sûr, du ketchup et de la moutarde.
+
+"
       ],
       "recipe03": [
         "Le Mac and Cheese, ou macaronis au fromage, est une recette facile et rapide qui a rapidement conquis l'Amérique. D'ailleurs les héros de la série Friends et de Maman j'ai encore raté l'avion en raffolent !"
