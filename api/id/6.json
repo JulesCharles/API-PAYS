@@ -1,6 +1,6 @@
 {
   "id": 6,
-      "country": "New York", 
+      "country": "New York DC", 
       "image01": "https://images.pexels.com/photos/1525612/pexels-photo-1525612.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image02": "https://images.pexels.com/photos/2168974/pexels-photo-2168974.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image03": "https://images.pexels.com/photos/2168975/pexels-photo-2168975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -32,34 +32,12 @@
       "date03": "1858",
         
       "recipe01": [
-        "2 pounds freshly ground chuck, (at least 80% lean, a.k.a. 80/20)",
-        "1 tablespoon onion powder",
-        "1 teaspoon salt",
-        "1 teaspoon freshly ground black pepper",
-        "12 slices deli-counter American cheese",
-        "6 large burger buns, preferably homemade, toasted if desired"
+        "Icône de la cuisine américaine, le burger est évidemment incontournable à New York ! Toutefois, pour goûter un vrai burger new-yorkais, avec du goût, je vous conseille vivement de fuir les Mac Ronald’s et autres chaînes de fast food présentes dans le monde entier. Poussez plutôt la porte des petites adresses et des « diners » qui vous feront goûter un burger authentique, cuisiné rien que pour vous."
       ],
       "recipe02": [
-        "1/4 cup all-purpose flour",
-        "1/4 teaspoon paprika",
-        "1/4 teaspoon cayenne pepper",
-        "1/4 teaspoon salt",
-        "10 chicken wings",
-        "oil for deep frying",
-        "1/4 cup butter",
-        "1/4 cup hot sauce",
-        "1 dash ground black pepper",
-        "1 dash garlic powder"
+        ""
       ],
       "recipe03": [
-        "8 ounces uncooked elbow macaroni",
-        "2 cups shredded sharp Cheddar cheese",
-        "1/2 cup grated Parmesan cheese",
-        "3 cups milk",
-        "1/4 cup butter",
-        "2 1/2 tablespoons all-purpose flour",
-        "2 tablespoons butter",
-        "1/2 cup bread crumbs",
-        "1 pinch paprika"
+        "Le Mac and Cheese, ou macaronis au fromage, est une recette facile et rapide qui a rapidement conquis l'Amérique. D'ailleurs les héros de la série Friends et de Maman j'ai encore raté l'avion en raffolent !"
   ]
 }
