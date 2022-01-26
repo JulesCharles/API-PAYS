@@ -11,8 +11,8 @@
       "foodName03": "Bua Loy",
       
       "food01": "https://images.pexels.com/photos/2454533/pexels-photo-2454533.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "Food02": "https://images.pexels.com/photos/9056984/pexels-photo-9056984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
-      "Food03": "https://www.azygo.com/images/articles/bua-loy.jpg" 
+      "Food02": "https://recipefood.net/wp-content/uploads/2021/01/recipe-appetizing-thai-green-chicken-curry-720x840.png", 
+      "Food03": "https://cocinista-vsf.netdna-ssl.com/download/bancorecursos/recetas/receta-bua-loy-bualoy.jpg" 
 
       ,
       "story01": "Le Wat Pho (thaï วัดโพธิ์, wát pʰoː), ou Wat Phra Chettuphon (temple du Bouddha couché), est un des plus grands et des plus anciens temples bouddhistes de Bangkok. Il abrite la statue représentant Bouddha sur son lit de mort, sur le point d'accéder au parinirvâna. Elle fait 43 mètres de long et 15 mètres de haut. Ses pieds sont incrustés de nacre représentant les 108 états de Bouddha.",
@@ -31,13 +31,7 @@
       "date02": "1981",
       "date03": "14 eme Siecle", 
       
-      "recipe01": [
-        "Le larb (laab, laap, larp ou lahb, Thai: ลาบ, Laotien: ລາບ) est une salade thaïe et laotienne, composée de viande hachée qui peut être cuite ou crue, et mélangée avec du jus de citron vert, de la sauce de poisson, des échalotes, des herbes fraîƒches, du piment et de la poudre de riz gluant grillé."
-      ],
-      "recipe02": [
-        "Kaeng khiao wan : curry vert. Le curry vert est constitué de lait de coco, de poulet, d'ail et de jus de citron vert, ainsi que de pâte de curry vert. On le mange généralement avec du riz."
-      ],
-      "recipe03": [
-        "Ce dessert thaïlandais dont le nom en thaï signifie « lotus flottant », est un dessert très apprécié et facile à préparer, composé de petites boules de riz gluant colorées et parfumées (qui s’apparentent à des graines de « lotus ») flottant dans une soupe sucrée à base de lait de coco, généralement servie tiède."
-  ]
+      "recipe01": "Le larb (laab, laap, larp ou lahb, Thai: ลาบ, Laotien: ລາບ) est une salade thaïe et laotienne, composée de viande hachée qui peut être cuite ou crue, et mélangée avec du jus de citron vert, de la sauce de poisson, des échalotes, des herbes fraîƒches, du piment et de la poudre de riz gluant grillé.",
+      "recipe02": "Kaeng khiao wan : curry vert. Le curry vert est probablement le curry le plus piquant et le plus épicé des currys traditionnels thaïlandais, mais son nom signifie littéralement “curry vert doux”. Il est dit que le nom fait en fait référence à la couleur du curry et non au goût. En effet, en thaïlandais, le “vert doux” se référerait plutôt à la couleur “vert crème” ou “vert pâle” obtenue en ajoutant le lait de coco à la pâte de curry dont la couleur verte provient principalement des piments et de feuilles de combava.",
+      "recipe03": "Ce dessert thaïlandais dont le nom en thaï signifie « lotus flottant », est un dessert très apprécié et facile à préparer, composé de petites boules de riz gluant colorées et parfumées (qui s’apparentent à des graines de « lotus ») flottant dans une soupe sucrée à base de lait de coco, généralement servie tiède."
 }
