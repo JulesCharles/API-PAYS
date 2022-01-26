@@ -29,13 +29,7 @@
       "date02": "17 mars 1930",
       "date03": "1858",
         
-      "recipe01": [
-        "Icône de la cuisine américaine, le burger est évidemment incontournable à New York ! Toutefois, pour goûter un vrai burger new-yorkais, avec du goût, je vous conseille vivement de fuir les Mac Ronald’s et autres chaînes de fast food présentes dans le monde entier. Poussez plutôt la porte des petites adresses et des « diners » qui vous feront goûter un burger authentique, cuisiné rien que pour vous."
-      ],
-      "recipe02": [
-        "New York, ses boutiques, ses gratte-ciels, son équipe de baseball et ses hot-dogs ! Impossible de passer à côté de cette spécialité culinaire lorsque l'on séjourne dans cette ville. Les vendeurs de hot-dogs sont présents à chaque coin de rue ou presque. S'il existe une grande variété de recettes, le vrai hot dog New Yorkais utilise des ingrédients bien précis. Le hot-dog est un sandwich à la recette assez simple. Cet encas repose sur une saucisse cuite composée de viande de boeuf et parfois de porc, dans un pain brioché non sucré et de forme allongée. La recette d'origine, celle qui compose le vrai hot dog New Yorkais comprend aussi de l'oignon finement coupé, un peu de choucroute, de la relish et, bien sûr, du ketchup et de la moutarde."
-      ],
-      "recipe03": [
-        "Le Mac and Cheese, ou macaronis au fromage, est une recette facile et rapide qui a rapidement conquis l'Amérique. D'ailleurs les héros de la série Friends et de Maman j'ai encore raté l'avion en raffolent !"
-  ]
+      "recipe01": "Icône de la cuisine américaine, le burger est évidemment incontournable à New York ! Toutefois, pour goûter un vrai burger new-yorkais, avec du goût, je vous conseille vivement de fuir les Mac Ronald’s et autres chaînes de fast food présentes dans le monde entier. Poussez plutôt la porte des petites adresses et des « diners » qui vous feront goûter un burger authentique, cuisiné rien que pour vous.",
+      "recipe02": "New York, ses boutiques, ses gratte-ciels, son équipe de baseball et ses hot-dogs ! Impossible de passer à côté de cette spécialité culinaire lorsque l'on séjourne dans cette ville. Les vendeurs de hot-dogs sont présents à chaque coin de rue ou presque. S'il existe une grande variété de recettes, le vrai hot dog New Yorkais utilise des ingrédients bien précis. Le hot-dog est un sandwich à la recette assez simple. Cet encas repose sur une saucisse cuite composée de viande de boeuf et parfois de porc, dans un pain brioché non sucré et de forme allongée. La recette d'origine, celle qui compose le vrai hot dog New Yorkais comprend aussi de l'oignon finement coupé, un peu de choucroute, de la relish et, bien sûr, du ketchup et de la moutarde.",
+      "recipe03": "Le Mac and Cheese, ou macaronis au fromage, est une recette facile et rapide qui a rapidement conquis l'Amérique. D'ailleurs les héros de la série Friends et de Maman j'ai encore raté l'avion en raffolent !",
 }
