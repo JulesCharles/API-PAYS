@@ -3,18 +3,16 @@
       "country": "Thaïlande", 
       "image01": "https://images.pexels.com/photos/1074442/pexels-photo-1074442.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image02": "https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "image03": "https://images.pexels.com/photos/4024726/pexels-photo-4024726.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-      ,
-
+      "image03": "https://images.pexels.com/photos/4024726/pexels-photo-4024726.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  
       "foodName01": "Salade laab au boeuf",
       "foodName02": "Curry vert",
       "foodName03": "Bua Loy",
       
       "food01": "https://www.maspatule.com/blog/wp-content/uploads/2019/07/salade-thaie-800x972.jpg",
-      "Food02": "https://recipefood.net/wp-content/uploads/2021/01/recipe-appetizing-thai-green-chicken-curry-720x840.png", 
-      "Food03": "https://cocinista-vsf.netdna-ssl.com/download/bancorecursos/recetas/receta-bua-loy-bualoy.jpg" 
+      "Food02": "https://wickedfood.co.za/wp-content/uploads/2010/09/Green-Chicken-Curry-1024x679.jpg", 
+      "Food03": "https://cocinista-vsf.netdna-ssl.com/download/bancorecursos/recetas/receta-bua-loy-bualoy.jpg," 
 
-      ,
       "story01": "Le Wat Pho (thaï วัดโพธิ์, wát pʰoː), ou Wat Phra Chettuphon (temple du Bouddha couché), est un des plus grands et des plus anciens temples bouddhistes de Bangkok. Il abrite la statue représentant Bouddha sur son lit de mort, sur le point d'accéder au parinirvâna. Elle fait 43 mètres de long et 15 mètres de haut. Ses pieds sont incrustés de nacre représentant les 108 états de Bouddha.",
       "story02": "Dominant la plage de Pattaya, la façade brun sombre du sanctuaire de la vérité tranche sur le bleu de la mer. Son surnom, le Teak Temple, fait référence au matériau de construction. L’édifice est tout en teak, du plancher jusqu’au plafond, en passant par les œuvres sculpturales qui rehaussent chaque mètre carré des murs, des portes et des balustrades. La dénomination abuse plus d’un, car l’atmosphère tient d’un musée plus que d’un lieu de prière. L’intérieur abrite une variété de sculptures en bois qui chantent l’éloge des philosophies du Moyen-Orient, de sa conception de l’univers, de ses croyances culturelles et religieuses.",
       "story03": "Wat Chedi Luang (thaï : วัดเจดีย์หลวง, lit. temple du grand stupa ou temple de du stupa royal) est un temple bouddhiste dans le centre historique de Chiang Mai, Thaïlande. Les terres actuelles du temple étaient à l'origine composées de trois temples ; Wat Chedi Luang, Wat Ho Tham et Wat Sukmin. Dans ce lieu, sont organisées des sessions de conversations avec les moines chaque jour. Les touristes sont invités à parler avec des moines (habituellement des novices) et à leur poser des questions sur le bouddhisme ou la Thaïlande.",
