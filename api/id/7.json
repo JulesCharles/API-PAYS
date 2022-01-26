@@ -2,8 +2,8 @@
   "id": 7,
       "country": "Brésil", 
       "image01": "https://images.pexels.com/photos/10254833/pexels-photo-10254833.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "image02": "https://images.pexels.com/photos/3021252/pexels-photo-3021252.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "image03": "https://images.pexels.com/photos/10470133/pexels-photo-10470133.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "image02": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bondinho_do_P%C3%A3o_de_A%C3%A7%C3%BAcar_by_Diego_Baravelli.jpg/220px-Bondinho_do_P%C3%A3o_de_A%C3%A7%C3%BAcar_by_Diego_Baravelli.jpg",
+      "image03": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ipanemavuducorcovado.jpg/280px-Ipanemavuducorcovado.jpg",
      
       "foodName01": "Coxinha",
       "foodName02": "Feijoada",
@@ -13,13 +13,13 @@
       "food02": "https://images.pexels.com/photos/5695874/pexels-photo-5695874.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "food03": "http://got-voyage-culinaire.com/wp-content/uploads/2017/03/P9298064-360x240.jpg",
       
-      "story01": "The Corcovado is one of the many landforms in the city of Rio de Janeiro. It rises to 704 meters above sea level. It is famous for hosting the statue of Christ the Redeemer, one of the main symbols of the city and the country, at its summit, and for offering a view of the entire southern area of the city.",
-      "story02": "Located on the border between Argentina and Brazil, these famous falls have been a UNESCO World Heritage Site since 1984 as natural wonders.",
-      "story03": "A vast plain crossed by the Amazon River, this region of South America spans several countries (Colombia, Bolivia, Ecuador ...) and of course Brazil! In this one alone, the Amazon covers 60% of the territory! Spread over several states in the north of the country, this immense green region is the lungs of our dear planet",
+      "story01": "Le Corcovado est une montagne de la baie de Rio-de-Janeiro, une des principales villes du Brésil. Il est connu car il est surmonté depuis le milieu du XXe siècle par la célèbre statue du Christ rédempteur qui domine la ville. On confond souvent le Corcovado et la statue, mais le premier est bien le nom d'un pic rocheux situé en plein centre ville, le deuxième étant l'oeuvre d'art.",
+      "story02": "Le mont du Pain de Sucre, ou simplement le Pain de Sucre (Pão de Açúcar en portugais), est un monolithe et un inselberg granitique situé dans la ville de Rio de Janeiro au Brésil. Il culmine à 396 mètres d'altitude et est accessible par un téléphérique. ",
+      "story03": "Ipanema est un quartier aisé, chic et branché de la zone sud de la ville de Rio de Janeiro, au Brésil. Il est bordé par le très chic quartier de Leblon à l'ouest, Lagoa Rodrigo de Freitas au nord qui le sépare du quartier de Lagoa, du quartier d'Arpoador à l'est et l'océan Atlantique au sud. Son nom est un mot guarani signifiant « mauvaises eaux ». ",
 
-      "monumentName01": "Pain de Sucre",
-      "monumentName02": "Santo Antonio de Lisboa",
-      "monumentName03": "Pantao Do Lago Sul",
+      "monumentName01": "Le Corcovado",
+      "monumentName02": "Le Pain de Sucre",
+      "monumentName03": "Ipanema",
 
       "monument01": "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "monument02": "https://images.pexels.com/photos/1203565/pexels-photo-1203565.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
