@@ -2,8 +2,8 @@
   "id": 7,
       "country": "Brésil", 
       "image01": "https://images.pexels.com/photos/10254833/pexels-photo-10254833.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "image02": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image03": "https://images.pexels.com/photos/1118877/pexels-photo-1118877.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "image02": "https://images.pexels.com/photos/3021252/pexels-photo-3021252.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "image03":  "https://images.pexels.com/photos/10470133/pexels-photo-10470133.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
      
       "foodName01": "Coxinha",
       "foodName02": "Feijoada",
@@ -22,8 +22,8 @@
       "monumentName03": "Ipanema",
 
       "monument01": "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "monument02": "https://images.pexels.com/photos/1203565/pexels-photo-1203565.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "monument03": "https://images.pexels.com/photos/6943410https://www.futuribles.com/media/base/main/ForetAmazonienne.jpg.560x300_q85_box-0%2C13%2C1000%2C548_crop_detail.jpg/pexels-photo-6943410.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "monument02": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "monument03": "https://images.pexels.com/photos/1118877/pexels-photo-1118877.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
      
       "date": [
       "1926-1931",
